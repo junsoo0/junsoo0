@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @junsoo0
-- 👀 I’m interested in games
+- 👀 I’m interested in backend web development
 - 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a small project
 - 📫 How to reach me 1herjs1@gmail.com
 
 <!---
