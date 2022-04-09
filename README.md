@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @junsoo0
+- 👋 Hi, I’m junsoo
 - 👀 I’m interested in backend web development
-- 🌱 I’m currently learning open source programming
-- 💞️ I’m looking to collaborate on a small project
-- 📫 How to reach me 1herjs1@gmail.com
+- 📫 1herjs1@gmail.com
 
 <!---
 junsoo0/junsoo0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
